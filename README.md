@@ -1,13 +1,13 @@
 # edelboard-for-seeeduinoxiao
 
-Seeedino XIAO用のGrove拡張基板です。
+Seeeduino XIAO用のGrove拡張基板です。
 
 <img src="https://user-images.githubusercontent.com/10735253/117023089-be258780-ad33-11eb-9104-88a8d66e62dd.png" width="300"> <img src="https://user-images.githubusercontent.com/10735253/117022951-a221e600-ad33-11eb-8875-04d45500fa14.png" width="300">
 
 ## 特長
 入出力用・シリアル用・ws2812b/サーボモータ用の3つのコネクタが付いているシンプルな基板です。
 
-Seeedino XIAOを直付けすることによって、ピンヘッダーがあるときより薄くして使うこともできます。
+Seeeduino XIAOを直付けすることによって、ピンヘッダーがあるときより薄くして使うこともできます。
 
 <img src="https://user-images.githubusercontent.com/10735253/117023161-d2698480-ad33-11eb-9665-9aac9233f275.png" width="300">
 
